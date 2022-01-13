@@ -1,0 +1,15 @@
+Link para download don Projeto do GitHub:
+
+fiz assim:
+entrei na pasta do projeto e pedi para abri-la no terminal
+digitei:
+git init
+depois digitei:
+git clone https://github.com/geosidnei/dio-desafio-github-primeiro-repositorio.git
+
+e funcionou // nem pediu senha :0
+entrei na pasta com cd
+depois dei git add *
+
+ai dei git status
+
